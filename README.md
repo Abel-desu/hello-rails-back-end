@@ -97,6 +97,11 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https:/github.com/Abel-desu/hello-rails-back-end.git
 ```
+Repository for frontend:
+```sh
+  cd my-folder
+  git clone https://github.com/Abel-desu/hello-react-front-end.git
+```
 
 ### Install
 
